@@ -1,0 +1,4 @@
+# Dependencias para instalar
+ - ActiveMQ: rmohr/activemq
+   https://hub.docker.com/r/rmohr/activemq
+ - Kafka - docker compose up
